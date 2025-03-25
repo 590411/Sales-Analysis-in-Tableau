@@ -40,7 +40,14 @@ Sales Dashboard (5 year period) requirement
 		5. Slice by Segment
 		6. Select a date range
   
-![1](https://github.com/user-attachments/assets/14b7a46a-0053-41e6-8c67-7adebbfba884)
+![Screenshot 2025-03-25 221700](https://github.com/user-attachments/assets/e43907d7-399a-4412-b656-9c4cff511f7d)
+![Screenshot 2025-03-25 221713](https://github.com/user-attachments/assets/4b3043a6-7e8f-4564-8ee8-9e6b672ddfba)
+![Screenshot 2025-03-25 221722](https://github.com/user-attachments/assets/6cf0b992-9055-4199-b427-721714586a55)
+![Screenshot 2025-03-25 221743](https://github.com/user-attachments/assets/181b6e88-feb9-4e58-b2bf-32ebcb5a91ca)
+![Screenshot 2025-03-25 221812](https://github.com/user-attachments/assets/b8dace9c-2d03-401d-aa8b-39bd0915a7f9)
+![Screenshot 2025-03-25 221822](https://github.com/user-attachments/assets/1f27deec-5659-4843-9d39-b1c43a506671)
+![Screenshot 2025-03-25 221836](https://github.com/user-attachments/assets/02e49c2c-3b38-4ee8-bbdf-65f349ff0f30)
+![Screenshot 2025-03-25 221853](https://github.com/user-attachments/assets/29c9d984-66c0-42d2-9500-ac8cd3cb45a7)
 
 
  ### Data sources
